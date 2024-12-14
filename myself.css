@@ -1,0 +1,30 @@
+ body {
+            background-color: white; 
+            font-family: segoe print; 
+	    font-size: 19px;
+        }
+        h1 {
+            text-align: center;
+            font-family: Goudy Stout;
+            color: #FFB6C1; 
+        }
+        h3 {
+            padding: 10px;
+            color: white;
+        }
+        .biography {
+            background-color: #B9E8D6;
+        }
+        .about {
+            background-color: #AFCBFA; 
+        }
+        .age-challenges {
+            background-color: #F8C8DC;
+        }
+        .hobbies {
+            background-color: #E4CFFF; 
+        }
+        .ambitions {
+            background-color: #FFD9B3; 
+        }
+
